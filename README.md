@@ -30,4 +30,4 @@ npx hardhat run scripts/deploy.js --network sepolia
 
 1. Finalize multisig integration
 2. Add Oracle/Bridge integration for asset backing (off-chain reference)
-3. Request audit from Blocksecur.io
+3. Request an audit from Blocksecur.io
