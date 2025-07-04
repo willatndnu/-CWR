@@ -1,0 +1,2 @@
+# -CWR
+COIN OF THE FUTURE 
